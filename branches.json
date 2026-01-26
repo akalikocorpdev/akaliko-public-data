@@ -56,6 +56,20 @@
         "google_maps": "https://www.google.com/maps?ftid=0x5485cb2649e1e3e3:0x79e3947c53db1083"
     },
     {
+        "Slug": "",
+        "name": "",
+        "location": "",
+        "address": "",
+        "region": "",
+        "branch_type": "Service Center",
+        "email": "shawn.m@akaliko.global",
+        "phone": "+1 604 743 0215 / +1 604 855 5521",
+        "website": "",
+        "show_website": true,
+        "coordinates": "",
+        "google_maps": ""
+    },
+    {
         "Slug": "akaliko-remanufacturing-center-north-america",
         "name": "Akaliko Remanufacturing Center North America",
         "location": "Saltillo, Mexico",
@@ -116,7 +130,7 @@
         "region": "Europe & The Middle East",
         "branch_type": "Manufacturing Hub",
         "email": "sanberk.c@akaliko.global",
-        "phone": "+90 312 286 9606",
+        "phone": "+90 530 090 59 87 / +90 312 286 9606",
         "website": "",
         "coordinates": "39.9086517,32.7438176",
         "google_maps": "https://www.google.com/maps?ftid=0x14d33701727309ef:0x7c0dd615a1ba47f5"
