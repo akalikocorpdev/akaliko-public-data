@@ -56,17 +56,17 @@
         "google_maps": "https://www.google.com/maps?ftid=0x5485cb2649e1e3e3:0x79e3947c53db1083"
     },
     {
-        "Slug": "",
-        "name": "",
-        "location": "",
-        "address": "",
-        "region": "",
+        "Slug": "akaliko-canada-inc",
+        "name": "Akaliko Canada Inc.",
+        "location": "Kamloops, Canada",
+        "address": "1-9989 Dallas Drive, Kamloops, BC V2C 6T4, Canada",
+        "region": "North America",
         "branch_type": "Service Center",
         "email": "shawn.m@akaliko.global",
         "phone": "+1 604 743 0215 / +1 604 855 5521",
         "website": "",
         "show_website": true,
-        "coordinates": "",
+        "coordinates": "50.653523224044115, -120.05199000322622",
         "google_maps": ""
     },
     {
