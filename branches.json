@@ -149,32 +149,6 @@
         "google_maps": "https://www.google.com/maps?ftid=0x8422b168c262b21:0x287e76b03f917eb4"
     },
     {
-        "Slug": "akaliko-kazakhstan-llp",
-        "name": "Akaliko Kazakhstan LLP",
-        "location": "Karaganda, Kazakhstan",
-        "address": "Bukhar-Jyrau Avenue 49/6, Office 410a, Karaganda, Kazakhstan",
-        "region": "Asia Pacific",
-        "branch_type": "Sales Office",
-        "email": "yegor.r@akaliko.global",
-        "phone": "+7 777 377 4075 / +7 914 886 0089",
-        "website": "",
-        "coordinates": "49.7961915,73.0917696",
-        "google_maps": ""
-    },
-    {
-        "Slug": "akaliko-llc",
-        "name": "Akaliko LLC",
-        "location": "Tashkent, Uzbekistan",
-        "address": "Ahmad Donish 20A, Yunusabad District, Tashkent 100180, Uzbekistan",
-        "region": "Asia Pacific",
-        "branch_type": "Sales Office",
-        "email": "",
-        "phone": "",
-        "website": "",
-        "coordinates": "41.37807362330146, 69.29527873847348",
-        "google_maps": ""
-    },
-    {
         "Slug": "akaliko-guinea-sarlu",
         "name": "Akaliko Guinea Sarlu",
         "location": "Conakry, Guinea",
