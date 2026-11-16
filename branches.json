@@ -212,15 +212,15 @@
     {
         "Slug": "akaliko-south-africa-pty-ltd",
         "name": "Akaliko South Africa Pty Ltd",
-        "location": "Meyersdal, South Africa",
-        "address": "Sable Industrial Park Unit #4, 13 Pomona Road, Jet Park, Glen Marais, 1609, South Africa",
+        "location": "Boksburg, South Africa",
+        "address": "80 Skew Rd, Boksburg, Johannesburg, 1459, South Africa",
         "region": "Africa",
         "branch_type": "Procurement Hub",
         "email": "sephora.i@akaliko.global",
-        "phone": "+27 82 541 0069",
+        "phone": "+27 67 276 2183 / +27 72 540 6802",
         "website": "",
-        "coordinates": "-26.0913291,28.2647702",
-        "google_maps": "https://www.google.com/maps?ftid=0x1e9515175bb78d99:0x9f657db76f204600"
+        "coordinates": "-26.1959005,28.2805033",
+        "google_maps": "https://www.google.com/maps/search/?api=1&query=80+Skew+Rd,+Boksburg,+1459,+South+Africa"
     },
     {
         "Slug": "akaliko-zambia-ltd",
