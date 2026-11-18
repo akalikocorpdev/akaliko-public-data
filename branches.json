@@ -22,20 +22,6 @@
         ]
     },
     {
-        "Slug": "annica-international-ltd",
-        "name": "Annica International Ltd.",
-        "location": "Singapore, Singapore",
-        "address": "33 Tampines Street 34, #07-36, Singapore 529238",
-        "region": "Asia Pacific",
-        "branch_type": "Sales Office",
-        "email": "info@akaliko.global",
-        "phone": "",
-        "website": "",
-        "show_website": false,
-        "coordinates": "1.355511776305769, 103.95977425786687",
-        "google_maps": ""
-    },
-    {
         "Slug": "akaliko-global-sales-office",
         "name": "Akaliko Global Sales Office",
         "location": "Pathum Thani, Thailand",
